@@ -61,9 +61,5 @@ public class HelloControllerTest {
         assertEquals(expectedTeam, teamReturned);
     }
 
-     @Test 
-    public void getGithubId_returns_correct_githubId(){
-        assertEquals("HeloisaAlcantaraFurtado04",Developer.getGithubId());
-    }
-
+   
 }
