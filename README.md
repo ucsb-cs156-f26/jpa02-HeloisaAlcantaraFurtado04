@@ -1,9 +1,8 @@
 # jpa02-HeloisaAlcantaraFurtado04
 
-
 Repo: https://github.com/ucsb-cs156-f26/jpa02-HeloisaAlcantaraFurtado04.git 
 
-Deployed at:https://jpa02-heloisaalcantarafurtado04.dokku-14.cs.ucsb.edu 
+Deployed at: https://jpa02-heloisaalcantarafurtado04.dokku-14.cs.ucsb.edu 
 
 
 # About this repo
